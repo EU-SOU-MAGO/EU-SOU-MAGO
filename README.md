@@ -1,16 +1,14 @@
-### Hi there 👋
+### Ola esse é meu projeto 👋
 
-<!--
-**EU-SOU-MAGO/EU-SOU-MAGO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ **MEU NOME:** **EU-SOU-MAGO/EU-SOU-MAGO**
 
-Here are some ideas to get you started:
+- Eu estou estudando no alura
+- Estou me desenvolvendo no Javascript
+- Utilizo esses sites pra ganhar conhecimento e sabedoria
+- Uso o aplicativo pra fazer programação e jogos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**🖤Caso goste de mim entre em contato🖤**
+
+pelo telegram☑️
+ou instagram🍒
+
